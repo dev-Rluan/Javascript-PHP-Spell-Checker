@@ -1,5 +1,17 @@
-Javascript/PHP Spell Checker
-============================
+# Javascript-PHP-Spell-Checker
+
+[LPology/Javascript-PHP-Spell-Checker](https://github.com/LPology/Javascript-PHP-Spell-Checker)의 fork입니다. 웹 애플리케이션에 JavaScript·PHP 기반 맞춤법 검사 기능을 붙이는 원본 프로젝트를 보관합니다.
+
+- 클라이언트: [js](js/) · [css](css/)
+- 서버: [spellcheck.php](spellcheck.php)
+- 변경 이력: [Changelog.md](Changelog.md)
+
+설치, API, 라이선스 안내는 아래 원본 문서에 있습니다.
+
+<details>
+<summary>원본 프로젝트 사용 문서</summary>
+
+## Javascript/PHP Spell Checker
 
 Word processor style spell check functionality for web applications.
 
@@ -160,3 +172,5 @@ sudo service httpd restart
 Released under the MIT license.
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/c658e3ccc513c56cc253223a42274cb7 "githalytics.com")](http://githalytics.com/LPology/Javascript-PHP-Spell-Checker)
+
+</details>
